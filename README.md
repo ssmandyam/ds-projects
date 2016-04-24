@@ -1,2 +1,2 @@
 # ds-projects
-Data Science Projects
+Exploratory Data Assignment Week 1
